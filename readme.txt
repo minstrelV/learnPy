@@ -1,0 +1,1 @@
+This project records notes aboubt py learning.
