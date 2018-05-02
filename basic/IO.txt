@@ -1,0 +1,9 @@
+ print('The quick brown fox', 'jumps over', 'the lazy dog')
+ 
+ >>> name = input()
+Michael
+
+但是程序运行的时候，没有任何提示信息告诉用户：“嘿，赶紧输入你的名字”，这样显得很不友好。幸好，input()可以让你显示一个字符串来提示用户，于是我们把代码改成：
+
+name = input('please enter your name: ')
+print('hello,', name)
