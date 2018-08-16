@@ -324,3 +324,5 @@ Jack 24 Beijing Engineer
 def person(name, age, city, job):
     # 缺少 *，city和job被视为位置参数
     pass
+    
+可变参数；
